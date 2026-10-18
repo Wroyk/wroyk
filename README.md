@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wroyk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/wroyk?tab=followers"><img src="https://img.shields.io/github/followers/wroyk?label=Followers&style=flat&color=6f42c1" alt="Followers" /></a>
+  <a href="https://github.com/wroyk"><img src="https://img.shields.io/badge/GitHub-wroyk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/wroyk?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0e75b6?style=for-the-badge" alt="Projects" /></a>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 - 🔭 I build web apps end to end, from the database to the UI
 - ☁️ I like deploying things to the cloud and automating the boring parts
-- 🎮 In my spare time I play around with **Unreal Engine** and **Blender**
+- 🎮 In my spare time I play around with **Unreal Engine**, **Godot** and **Blender**
 - 🌱 Always learning and open to collaborating on interesting projects
 
 ---
@@ -31,6 +31,7 @@
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="aws" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" title="azure" width="40" height="40"/></a>
+  <a href="https://www.hetzner.com" target="_blank" rel="noreferrer"><img src="assets/icons/hetzner.svg" alt="hetzner" title="hetzner" width="40" height="40"/></a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" title="docker" width="40" height="40"/></a>
   <a href="https://nginx.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" title="nginx" width="40" height="40"/></a>
   <a href="https://www.kernel.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="40" height="40"/></a>
@@ -59,7 +60,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="nodejs" width="40" height="40"/></a>
   <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" title="laravel" width="40" height="40"/></a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" title="tailwind" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" title="bootstrap" width="40" height="40"/></a>
+  <a href="https://ui.shadcn.com" target="_blank" rel="noreferrer"><img src="assets/icons/shadcnui.svg" alt="shadcn/ui" title="shadcn/ui" width="40" height="40"/></a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" alt="chartjs" title="chartjs" width="40" height="40"/></a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" title="graphql" width="40" height="40"/></a>
 </p>
@@ -78,15 +79,10 @@
   <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="figma" width="40" height="40"/></a>
   <a href="https://www.blender.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" title="blender" width="40" height="40"/></a>
   <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" title="unreal" width="40" height="40"/></a>
+  <a href="https://godotengine.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" title="godot" width="40" height="40"/></a>
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wroyk&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0e75b6&height=100&section=footer" alt="Footer banner" />
