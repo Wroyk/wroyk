@@ -1,10 +1,14 @@
-## hey there, I'm wroyk ✌️
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C2410C,50:F97316,100:FBBF24&height=180&section=header&text=hey%20there,%20I'm%20wroyk&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="hey there, I'm wroyk" />
+</p>
 
-<a href="https://github.com/wroyk">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=F97316&vCenter=true&width=520&lines=probably+building+something+on+Hetzner+right+now;full-stack+dev%2C+from+database+to+UI;making+games+in+Godot+%26+Unreal;breaking+stuff%2C+then+fixing+it" alt="probably building something on Hetzner right now" />
-</a>
+<p align="center">
+  <a href="https://github.com/wroyk">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=F97316&center=true&vCenter=true&width=520&lines=probably+building+something+on+Hetzner+right+now;full-stack+dev%2C+from+database+to+UI;making+games+in+Godot+%26+Unreal;breaking+stuff%2C+then+fixing+it" alt="probably building something on Hetzner right now" />
+  </a>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/wroyk"><img src="https://img.shields.io/badge/GitHub-wroyk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/wroyk?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-F97316?style=for-the-badge" alt="Projects" /></a>
 </p>
@@ -76,4 +80,8 @@
   <a href="https://www.blender.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" title="blender" width="40" height="40"/></a>
   <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" title="unreal" width="40" height="40"/></a>
   <a href="https://godotengine.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" title="godot" width="40" height="40"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,50:F97316,100:C2410C&height=100&section=footer" alt="" />
 </p>
